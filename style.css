@@ -1,0 +1,19 @@
+section {
+    border: 2px solid #ffcc5c;
+    display: flex;
+    gap: 5px 10px;
+    justify-content: space-evenly;
+}
+
+img{
+    height: 200px;
+}
+
+a{
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
